@@ -11,7 +11,6 @@ content-type: application/json
    "kategoria_id": 2,
    "leiras": "Eladó ...", 
    "hirdetesDatuma": "2022-03-19", 
-   "tehermentes": true,
    "ar": 45000000,
    "kepUrl": "https://pictures.com/apartman.jpg"
 }
